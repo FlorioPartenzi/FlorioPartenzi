@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##I'm Florio Partenzi, 
+## I'm Florio Partenzi, 
 I had some coding courses at Highschool, eversince I have been coding passionately.
 I'm Italian 🇮🇹 and German 🇩🇪  though currently based in Barcelona, Spain 🇪🇸 
 
