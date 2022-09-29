@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ##I'm Florio Partenzi, 
-i had some coding courses at Highschool, and then i have been coding passionetly.
-I'm  italian 🇮🇹 and german 🇩🇪 , though currently based in Barcelona Spain 🇪🇸 
+I had some coding courses at Highschool, eversince I have been coding passionately.
+I'm Italian 🇮🇹 and German 🇩🇪  though currently based in Barcelona, Spain 🇪🇸 
 
-- 🚀 lately i have been working on [Photospots](https://github.com/FlorioPartenzi/Photospots) 
+- 🚀 recently I have been working on [Photospots](https://github.com/FlorioPartenzi/Photospots) 
 - 🧠 interessted in learning React Nativ and Vue JS
-- 🤝 I'm open for collaborations on any project that sounds fun 
+- 🤝 I'm open to collaborations on any project that sounds fun 
 
 ## My Tech Stack 
 <p align="left">
