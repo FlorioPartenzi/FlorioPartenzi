@@ -2,7 +2,7 @@
 
 ## I'm Florio Partenzi, 
 I had some coding courses at Highschool, eversince I have been coding passionately.
-I'm Italian 🇮🇹 and German 🇩🇪  though currently based in Barcelona, Spain 🇪🇸 
+I'm Italian 🇮🇹 and German 🇩🇪  and currently based in Düsseldorf, Germany 
 
 - 🚀 recently I have been working on [Photospots](https://github.com/FlorioPartenzi/Photospots) 
 - 🧠 interessted in learning React Nativ and Vue JS
