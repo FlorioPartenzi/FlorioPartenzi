@@ -4,7 +4,7 @@
 I had some coding courses at Highschool, eversince I have been coding passionately.
 I'm Italian 🇮🇹 and German 🇩🇪  and currently based in Düsseldorf, Germany 
 
-- 🚀 recently I have been working on [Photospots](https://github.com/FlorioPartenzi/Photospots) 
+- 🚀 currently I am working at [w63](https://w63.io/) and at [simplymotion](https://simplymotion.io/)
 - 🧠 interessted in learning React Nativ and Vue JS
 - 🤝 I'm open to collaborations on any project that sounds fun 
 
