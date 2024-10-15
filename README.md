@@ -1,12 +1,7 @@
 ### Hi there 👋
 
 ## I'm Florio Partenzi, 
-I had some coding courses at Highschool, eversince I have been coding passionately.
-I'm Italian 🇮🇹 and German 🇩🇪  and currently based in Düsseldorf, Germany 
-
-- 🚀 currently I am working at [w63](https://w63.io/) and at [simplymotion](https://simplymotion.io/)
-- 🧠 interessted in learning React Nativ and Vue JS
-- 🤝 I'm open to collaborations on any project that sounds fun 
+I had some coding courses at Highschool, worked two years as a fullstack dev for a small startup, am now studing architeckture at the "Università Degli Studi Di Padova", and coding personal projects on the side.
 
 ## My Tech Stack 
 <p align="left">
